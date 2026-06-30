@@ -1,6 +1,6 @@
 # Content-based Book Recommendation System
 ## Project Overview
-This project is a Content-based Recommendation System that suggests books to users based on their preferences.  
+This project is a Content-based Book Recommendation System that suggests books to users based on their preferences.  
 If a user likes a particular book, the system recommends similar books using the book's category and description.
 The system is simple, interactive, and perfect for small datasets, making it ideal for learning recommendation systems in Python.
 Objective of this project is
